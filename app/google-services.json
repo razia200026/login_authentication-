@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "951437756251",
+    "firebase_url": "https://authenticationwithfireba-16b69-default-rtdb.firebaseio.com",
+    "project_id": "authenticationwithfireba-16b69",
+    "storage_bucket": "authenticationwithfireba-16b69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951437756251:android:16b04d9f6ef8e49a187c7e",
+        "android_client_info": {
+          "package_name": "com.example.login_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5GOfLo2m75yA5qsmT8bEYTtHQtmHBwrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
