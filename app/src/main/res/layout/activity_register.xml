@@ -120,9 +120,10 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="Register"
+        android:text=" SignUp"
 
-        android:textColor="@color/black"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/confirmPassword"
         app:layout_constraintStart_toStartOf="@+id/confirmPassword"
